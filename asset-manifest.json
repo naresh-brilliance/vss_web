@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/web-front/static/css/main.da70cc19.chunk.css",
+    "main.js": "/web-front/static/js/main.0346ae63.chunk.js",
+    "main.js.map": "/web-front/static/js/main.0346ae63.chunk.js.map",
+    "runtime-main.js": "/web-front/static/js/runtime-main.337205a7.js",
+    "runtime-main.js.map": "/web-front/static/js/runtime-main.337205a7.js.map",
+    "static/js/2.58e0ac2d.chunk.js": "/web-front/static/js/2.58e0ac2d.chunk.js",
+    "static/js/2.58e0ac2d.chunk.js.map": "/web-front/static/js/2.58e0ac2d.chunk.js.map",
+    "static/js/3.f4dc382b.chunk.js": "/web-front/static/js/3.f4dc382b.chunk.js",
+    "static/js/3.f4dc382b.chunk.js.map": "/web-front/static/js/3.f4dc382b.chunk.js.map",
+    "index.html": "/web-front/index.html",
+    "static/css/main.da70cc19.chunk.css.map": "/web-front/static/css/main.da70cc19.chunk.css.map",
+    "static/js/2.58e0ac2d.chunk.js.LICENSE.txt": "/web-front/static/js/2.58e0ac2d.chunk.js.LICENSE.txt",
+    "static/media/Login.css": "/web-front/static/media/Logo.e86d5700.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.337205a7.js",
+    "static/js/2.58e0ac2d.chunk.js",
+    "static/css/main.da70cc19.chunk.css",
+    "static/js/main.0346ae63.chunk.js"
+  ]
+}
